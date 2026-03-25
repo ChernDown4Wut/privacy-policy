@@ -1,2 +1,2 @@
 # privacy-policy
-Privacy policy for intensify app
+Privacy policy for VoltTimer
